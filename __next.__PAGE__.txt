@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[47257,["/game-theory-arena/_next/static/chunks/0dbhjjzl8qfwv.js"],"ClientPageRoot"]
-3:I[52683,["/game-theory-arena/_next/static/chunks/0dbhjjzl8qfwv.js","/game-theory-arena/_next/static/chunks/17ev0_-xdj-ib.js"],"default"]
+3:I[52683,["/game-theory-arena/_next/static/chunks/0dbhjjzl8qfwv.js","/game-theory-arena/_next/static/chunks/0kxyuft3-5c5_.js"],"default"]
 6:I[97367,["/game-theory-arena/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/game-theory-arena/_next/static/chunks/17ev0_-xdj-ib.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"X3PHtyIC8SHLr6PLd9lPj"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/game-theory-arena/_next/static/chunks/0kxyuft3-5c5_.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"OKnSZodlH_xh0M3r2XK8C"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
