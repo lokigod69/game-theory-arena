@@ -1,2 +1,2 @@
-:HL["/game-theory-arena/_next/static/chunks/0zgfl.g2_~khz.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"hnLDQv5D54bX2u8W61sU2"}
+:HL["/game-theory-arena/_next/static/chunks/0.8s~73.la56d.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"X3PHtyIC8SHLr6PLd9lPj"}
